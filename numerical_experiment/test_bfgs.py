@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 23 21:29:27 2022
-
-@author: DELL
-"""
-
 from scipy.optimize import *
 import scipy
 import matplotlib.pyplot as plt
